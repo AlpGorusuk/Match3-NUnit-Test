@@ -1,7 +1,5 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using OpenCover.Framework.Model;
 using UnityEngine;
 
 public class Match : MonoBehaviour
