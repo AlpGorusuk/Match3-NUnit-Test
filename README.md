@@ -14,4 +14,10 @@ If the code already has unit-tests that check if the class behaves as expected, 
 
 They improve the debugging cycle. If you have a reproduction case in code that you can rerun in less than a second after you add logs or introduce changes, instead of waiting for the game to load or even going into a particular screen to reproduce it – you can make a lot more iterations in the same amount of time.
 
-## How to write Unit Tests in Unity []
+## [How to write Unit Tests in Unity](https://letsmakeagame.net/unity-unit-testing-basics-tutorial/#how-to-write-unit-tests-in-unity)
+
+### In this project I created simple Unity Tests for my match3 game logic methods separated them 3 case;
+
+- Check Match
+- Find All Possible Matches
+- Shuffle
